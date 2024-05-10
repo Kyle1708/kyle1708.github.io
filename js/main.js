@@ -236,7 +236,7 @@ else {document.querySelector("html").lang="en";}
 //加载完毕后执行
 window.onload = function() {
     setTimeout(function() {
-        console.log('%c𝕴 𝖆𝖒 𝕯𝖔𝖈𝖙𝖝𝖎𝖓𝖌','font-size: 48px')
+        console.log('%cI am Kyle','font-size: 48px')
         if (data['memorial'].hasOwnProperty(date_in_num)) {
             console.log(data['memorial'][date_in_num]['saySth']);
             updateThemeColor(data['memorial'][date_in_num]['color']);
