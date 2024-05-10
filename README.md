@@ -1,6 +1,6 @@
 # Kyle的博客主页🫠
 
-[![license](./image/svgs/license_github.svg)](https://github.com/Doctxing/blog/blob/master/LICENSE)
+[![license](./image/svgs/license_github.svg)](https://github.com/Kyle1708/Blog/blob/main/LICENSE)
 
 <img src="./image/uppage.webp" alt="こくしぼう" style="max-width: 1200px; width: 100%;">
 
